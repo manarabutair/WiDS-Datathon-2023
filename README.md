@@ -1,1 +1,1 @@
-This is the first attempt I made. Final notebook was maintained and uploaded by teammate. 
+*A glimpse of my early attempts in the contest. Final notebook was maintained and uploaded by teammate. *
