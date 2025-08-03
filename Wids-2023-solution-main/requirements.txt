@@ -1,0 +1,6 @@
+catboost==1.1.1
+pandas==1.5.3
+scikit-learn==1.2.2
+lightgbm==3.3.5
+json==2.0.9
+re==2.2.1

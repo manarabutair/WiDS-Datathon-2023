@@ -1,0 +1,5 @@
+{"RAW_DATA_DIR": "./data/raw/",
+  "CLEAN_PATH": "./data/clean/",
+  "MODELS_DIR": "./models/",
+  "SUBMISSION_DIR": "./submission/",
+  "PSUEDO_SUB_FILE_PATH":  "./psuedo/sub.csv"}
